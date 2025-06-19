@@ -1,1 +1,1 @@
-// Dein ORIGO Atemtrainer-Code
+// ORIGO Breath Code
