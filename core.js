@@ -1,1 +1,1 @@
-// Bangle.js App Loader Logik wird hier geladen
+// full core.js logic should be placed here (from official BangleApps)
