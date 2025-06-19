@@ -1,0 +1,10 @@
+{
+ "id": "balanceaid",
+ "name": "BalanceAid",
+ "icon": "balanceaid-icon.png",
+ "tags": ["health","breath"],
+ "shortName": "Breath",
+ "category": "health",
+ "supports" : ["BANGLEJS2"],
+ "run": "balanceaid.app.js"
+}
