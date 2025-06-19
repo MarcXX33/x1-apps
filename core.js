@@ -1,1 +1,1 @@
-// Placeholder for core.js
+// Bangle.js App Loader Logik wird hier geladen
